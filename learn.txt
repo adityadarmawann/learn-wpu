@@ -1,1 +1,4 @@
 in this time i wanna learn about git and github
+for the modul such as:
+- definition
+- function
